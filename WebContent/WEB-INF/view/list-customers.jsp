@@ -4,8 +4,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
-<title>List Customers</title>
+	<meta charset="ISO-8859-1">
+	<title>List Customers</title>
+	
+	<link type="text/css"
+		rel="stylesheet"
+		href="${pageContext.request.contextPath}/resources/css/style.css"/>
 </head>
 <body>
 
